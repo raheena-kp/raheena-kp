@@ -28,8 +28,8 @@ An ongoing project involving Python, SQL, and website development. Currently und
 
 ### 🎓 Education
 
-- Master of Computer Applications (MCA) – IGNOU
-- Bachelor of Arts (BA) – History
+- Master of Computer Applications (MCA) - Al Farook Calicut
+- Bachelor of Arts (BA) – NAM College Kannur
 
 ### 🌱 Currently Learning
 
